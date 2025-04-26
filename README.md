@@ -75,6 +75,27 @@ The API includes comprehensive error handling for:
 - Input validation
 - CORS protection
 
+## Modules
+    Key Node.js Modules to Use:
+    express — Core server framework
+
+    jsonwebtoken — JWT authentication
+
+    bcrypt — Password hashing
+
+    crypto — Encrypt/decrypt sensitive fields
+
+    mongoose — MongoDB ODM
+
+    socket.io — Real-time messaging
+
+    helmet — Security headers
+
+    cors — Cross-Origin handling
+
+    express-rate-limit — Rate limiting APIs
+
+    dotenv — Managing environment variables securely
 ## Testing
 
 Run tests using:
